@@ -1,0 +1,42 @@
+# Il presente documento ha lo scopo di descrivere i processi operativi che avverranno all'interno della Blockchain privata BBooK.
+# Gli algoritmi sotto riportati sono scritti in pseudo-codice, e sono soggetti a operazioni di raffinamento continuo.
+# Lo scopo è arrivare a scrivere operazioni/azioni atomiche che saranno poi integrate nel sistema.
+
+PROCESSI OPERATIVI BLOCKCHAIN BBooK
+------------------------------------------------------------
+1 - PROCESSO DI INIZIALIZZAZIONE PER UN NUOVO NODO SULLA RETE
+INIZIO
+	Eseguire "Inizializza_Blockchain.cmd"
+	API --> GET_CHAIN
+	Recupero dei nodi sulla rete
+	API --> CONNECT_NODE (Al nodo vengono aggiunti gli altri nodi della rete)
+	API --> CONNECT_NODE (Agli altri nodi viene aggiunto il nodo entrante)
+	API --> REPLACE_CHAIN
+FINE
+------------------------------------------------------------
+2 - PROCESSO DI FERMO BLOCKCHAIN PER UN NODO SULLA RETE
+INIZIO
+	API --> REPLACE_CHAIN
+	Togliere il nodo dalla rete
+	API --> MINE_BLOCK
+	FOR NODE IN SELF.NODES
+		IF (API --> CHECK_NODE)
+			API --> REPLACE_CHAIN
+		ELSE
+			Mi segno il nodo che non risponde
+			Cancello il nodo che non risponde
+	Eseguire "Stoppa_Blockchain.cmd"
+FINE
+------------------------------------------------------------
+3 - PROCESSO DI INSERIMENTO DI UN BOOK
+INIZIO
+	API --> ADD_BOOK
+	IF (API --> IS_VALID)
+		API --> MINE_BLOCK
+	FOR NODE IN SELF.NODES
+		IF (API --> CHECK_NODE)
+			API --> REPLACE_CHAIN
+		ELSE
+			Mi segno il nodo che non risponde
+			Cancello il nodo che non risponde
+FINE

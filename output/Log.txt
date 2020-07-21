@@ -1,0 +1,272 @@
+﻿20/05/2020 - 14:34:05,30 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+20/05/2020 - 14:34:07,12 ----------------------------------------------------------- 
+20/05/2020 - 14:34:09,16 ----------------------------------------------------------- 
+20/05/2020 - 14:34:11,17 ----------------------------------------------------------- 
+20/05/2020 - 14:34:13,11 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+20/05/2020 - 14:34:14,82 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+20/05/2020 - 14:34:16,16 ----------------------------------------------------------- 
+20/05/2020 - 14:34:48,01 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+20/05/2020 - 14:34:48,29 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+20/05/2020 - 14:35:30,51 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+20/05/2020 - 14:35:32,14 ----------------------------------------------------------- 
+20/05/2020 - 14:35:34,15 ----------------------------------------------------------- 
+20/05/2020 - 14:35:36,14 ----------------------------------------------------------- 
+20/05/2020 - 14:35:38,16 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+20/05/2020 - 14:36:18,63 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+20/05/2020 - 14:36:18,82 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+20/05/2020 - 14:41:05,80 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+20/05/2020 - 14:41:07,12 ----------------------------------------------------------- 
+{"chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-20 14:41:08.200664"}],"length":1}
+20/05/2020 - 14:41:10,21 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["127.0.0.1:5002"]}
+20/05/2020 - 14:41:12,15 ----------------------------------------------------------- 
+{"message":"The nodes had different chains so the chain was replaced by the longest one.","new_chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-20 14:35:09.980578"},{"book":[],"index":2,"previous_hash":"7700a2cd957290f6dfbf83c56d5b1c264aa7eba028c2cdf4a9730c853938468a","proof":533,"timestamp":"2020-05-20 14:35:20.784485"},{"book":[],"index":3,"previous_hash":"5c628aba93da3cd031b73e6c89b3e457eda5bf8fddd43e550e60e8e1f1c1a39a","proof":45293,"timestamp":"2020-05-20 14:35:21.544200"},{"book":[],"index":4,"previous_hash":"e64b3430274c3e4981e394df51583f2816457f390bc58b82c31d50bb9a496e91","proof":21391,"timestamp":"2020-05-20 14:35:22.173605"},{"book":[],"index":5,"previous_hash":"5577d63be7fd5ad061b94a46db90de4d64fb6ad016d1e41bfce36365c0c481d1","proof":8018,"timestamp":"2020-05-20 14:35:22.952354"}]}
+20/05/2020 - 14:41:14,13 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+20/05/2020 - 14:42:53,92 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+20/05/2020 - 14:42:54,09 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 13:34:00,17 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 13:34:04,15 ----------------------------------------------------------- 
+21/05/2020 - 13:34:07,13 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":[""]}
+21/05/2020 - 13:35:19,87 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 13:35:20,25 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 13:35:33,95 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 13:35:36,13 ----------------------------------------------------------- 
+{"chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-21 13:35:36.051904"}],"length":1}
+21/05/2020 - 13:35:38,12 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":[""]}
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["","127.0.0.2"]}
+21/05/2020 - 13:41:31,56 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 13:41:31,74 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 13:41:44,63 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 13:41:46,20 ----------------------------------------------------------- 
+21/05/2020 - 13:41:49,17 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["127.0.0.2"]}
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["","127.0.0.2"]}
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["","127.0.0.2"]}
+21/05/2020 - 13:42:50,61 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 13:42:50,73 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 13:42:54,88 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 13:42:56,14 ----------------------------------------------------------- 
+21/05/2020 - 13:42:59,13 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["127.0.0.2"]}
+21/05/2020 - 13:43:21,47 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 13:43:21,57 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 13:43:24,89 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 13:43:26,16 ----------------------------------------------------------- 
+{"chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-21 13:43:26.858116"}],"length":1}
+21/05/2020 - 13:43:29,16 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["127.0.0.2"]}
+21/05/2020 - 13:43:31,16 ----------------------------------------------------------- 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+21/05/2020 - 13:43:34,17 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["","127.0.0.2"]}
+21/05/2020 - 13:43:36,17 ----------------------------------------------------------- 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+21/05/2020 - 13:43:38,17 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+21/05/2020 - 13:45:06,90 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 13:45:08,17 ----------------------------------------------------------- 
+{"chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-21 13:43:26.858116"}],"length":1}
+21/05/2020 - 13:45:10,18 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["","127.0.0.2","127.0.0.1:5002"]}
+21/05/2020 - 13:45:19,74 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 13:45:19,94 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["","127.0.0.2"]}
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["","127.0.0.2"]}
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["","127.0.0.2"]}
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["","127.0.0.2"]}
+21/05/2020 - 14:40:57,15 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 14:40:59,12 ----------------------------------------------------------- 
+21/05/2020 - 14:41:05,19 ----------------------------------------------------------- 
+21/05/2020 - 14:41:10,21 ----------------------------------------------------------- 
+21/05/2020 - 14:41:16,20 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+21/05/2020 - 14:42:00,31 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 14:42:00,64 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 14:42:03,05 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 14:42:05,20 ----------------------------------------------------------- 
+21/05/2020 - 14:42:11,18 ----------------------------------------------------------- 
+21/05/2020 - 14:42:17,15 ----------------------------------------------------------- 
+21/05/2020 - 14:42:23,21 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+21/05/2020 - 14:43:16,92 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 14:43:17,03 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 14:43:20,05 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 14:43:22,18 ----------------------------------------------------------- 
+{"chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-21 14:43:22.172055"}],"length":1}
+21/05/2020 - 14:43:24,14 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["127.0.0.2"]}
+21/05/2020 - 14:44:04,19 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 14:44:04,35 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["","127.0.0.1:5002","127.0.0.2"]}
+21/05/2020 - 14:44:52,04 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 14:44:54,19 ----------------------------------------------------------- 
+{"chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-21 14:44:54.558405"}],"length":1}
+21/05/2020 - 14:44:56,19 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":["127.0.0.1:5002"]}
+21/05/2020 - 14:44:58,18 ----------------------------------------------------------- 
+{"message":"The nodes had different chains so the chain was replaced by the longest one.","new_chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-21 13:30:07.894296"},{"book":[],"index":2,"previous_hash":"119750344f3aeef64899437150acfdcd3b0fc2b7bcac6619caa42e81dc7f5198","proof":533,"timestamp":"2020-05-21 13:35:25.841807"},{"book":[],"index":3,"previous_hash":"db49825b3d78ad6732b54f093cf1b19636274ed1d05afbb104d9a5fa29bdd934","proof":45293,"timestamp":"2020-05-21 13:35:26.676544"},{"book":[],"index":4,"previous_hash":"101676b98deb99dc75260c4b9f4077ed28dbd2656ae737cec8994ef79a138a5e","proof":21391,"timestamp":"2020-05-21 13:35:27.373860"},{"book":[],"index":5,"previous_hash":"6e089b63ad5c8154609afef470596ee58db2be4db927504bbb0dce4f1207b272","proof":8018,"timestamp":"2020-05-21 13:35:28.047203"}]}
+21/05/2020 - 14:45:00,13 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+21/05/2020 - 14:50:14,90 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 14:50:15,21 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 16:44:15,85 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 16:44:17,13 ----------------------------------------------------------- 
+21/05/2020 - 16:44:20,14 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":[""]}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":[""]}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+21/05/2020 - 16:44:22,10 ----------------------------------------------------------- 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+21/05/2020 - 16:44:24,12 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+21/05/2020 - 16:45:34,18 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 16:45:34,35 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 16:47:36,33 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 16:47:38,13 ----------------------------------------------------------- 
+21/05/2020 - 16:47:43,15 ----------------------------------------------------------- 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+21/05/2020 - 16:48:17,36 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 16:48:17,53 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 16:48:32,64 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 16:48:34,15 ----------------------------------------------------------- 
+21/05/2020 - 16:48:40,17 ----------------------------------------------------------- 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+21/05/2020 - 16:48:54,88 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 16:48:54,98 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 16:50:09,31 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 16:50:11,18 ----------------------------------------------------------- 
+{"chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-21 16:50:11.244203"}],"length":1}
+21/05/2020 - 16:50:13,17 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":[""]}
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":[""]}
+21/05/2020 - 16:50:33,59 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 16:50:33,76 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 16:51:03,58 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 16:51:05,16 ----------------------------------------------------------- 
+{"chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-21 16:51:05.852696"}],"length":1}
+21/05/2020 - 16:51:08,15 ----------------------------------------------------------- 
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":[""]}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+{"message":"All the nodes are now connected. The Hadcoin Blockchain now contains the following nodes:","total_nodes":[""]}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+21/05/2020 - 16:56:17,36 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 16:56:17,56 ----------------------------------------------------------- 
+Fine stop della Blockchain 
+21/05/2020 - 16:56:36,65 ----------------------------------------------------------- 
+Inizio inizializzazione della Blockchain 
+21/05/2020 - 16:56:38,13 ----------------------------------------------------------- 
+{"chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-21 16:56:38.638099"}],"length":1}
+21/05/2020 - 16:56:40,11 ----------------------------------------------------------- 
+21/05/2020 - 16:56:42,19 ----------------------------------------------------------- 
+{"message":"The nodes had different chains so the chain was replaced by the longest one.","new_chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-21 16:50:40.722987"},{"book":[],"index":2,"previous_hash":"c7435cc75879ddc72746d4d7a4bf111009d5ef3b36019f94fd7402f2e523fe4e","proof":533,"timestamp":"2020-05-21 16:50:54.356020"},{"book":[],"index":3,"previous_hash":"228d5ed6c8435aeb6f056006115a04a33857cfb89286c949d9daa266beb5342f","proof":45293,"timestamp":"2020-05-21 16:50:55.025656"}]}
+21/05/2020 - 16:56:44,12 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+21/05/2020 - 16:56:46,12 ----------------------------------------------------------- 
+{"actual_chain":[{"book":[],"index":1,"previous_hash":"0","proof":1,"timestamp":"2020-05-21 16:50:40.722987"},{"book":[],"index":2,"previous_hash":"c7435cc75879ddc72746d4d7a4bf111009d5ef3b36019f94fd7402f2e523fe4e","proof":533,"timestamp":"2020-05-21 16:50:54.356020"},{"book":[],"index":3,"previous_hash":"228d5ed6c8435aeb6f056006115a04a33857cfb89286c949d9daa266beb5342f","proof":45293,"timestamp":"2020-05-21 16:50:55.025656"}],"message":"All good. The chain is the largest one."}
+21/05/2020 - 16:56:48,16 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+21/05/2020 - 16:56:50,15 ----------------------------------------------------------- 
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>500 Internal Server Error</title>
+<h1>Internal Server Error</h1>
+<p>The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.</p>
+21/05/2020 - 16:56:52,17 ----------------------------------------------------------- 
+Fine inizializzazione della Blockchain 
+21/05/2020 - 17:02:59,76 ----------------------------------------------------------- 
+Inizio stop della Blockchain 
+21/05/2020 - 17:03:00,07 ----------------------------------------------------------- 
+Fine stop della Blockchain 
